@@ -4,6 +4,31 @@
       "name": "viral-content-forge",
       "description": "Create viral content for social media: Reddit, Twitter/X, LinkedIn, YouTube, TikTok, blogs.",
       "skillPath": "skills/viral-content-forge/SKILL.md"
+    },
+    {
+      "name": "research",
+      "description": "Conduct preliminary research on a topic and generate research outline. For academic research, benchmark research, technology selection, etc.",
+      "skillPath": "skills/research/SKILL.md"
+    },
+    {
+      "name": "research-add-fields",
+      "description": "Add field definitions to existing research outline.",
+      "skillPath": "skills/research-add-fields/SKILL.md"
+    },
+    {
+      "name": "research-add-items",
+      "description": "Add items (research objects) to existing research outline.",
+      "skillPath": "skills/research-add-items/SKILL.md"
+    },
+    {
+      "name": "research-deep",
+      "description": "Read research outline, launch independent agent for each item for deep research.",
+      "skillPath": "skills/research-deep/SKILL.md"
+    },
+    {
+      "name": "research-report",
+      "description": "Summarize deep research results into markdown report, cover all fields, skip uncertain values.",
+      "skillPath": "skills/research-report/SKILL.md"
     }
   ]
 }
