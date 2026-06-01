@@ -5,7 +5,7 @@ Personal Claude Code skills marketplace.
 ## Install
 
 ```
-/plugin marketplace add javab/claude-skills
+/plugin marketplace add 73156918/claude-skills
 /plugin install viral-content-forge
 ```
 
