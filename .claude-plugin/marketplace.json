@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "name": "viral-content-forge",
+      "description": "Create viral content for social media: Reddit, Twitter/X, LinkedIn, YouTube, TikTok, blogs.",
+      "skillPath": "skills/viral-content-forge/SKILL.md"
+    }
+  ]
+}
